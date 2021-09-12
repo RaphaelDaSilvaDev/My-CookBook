@@ -1,0 +1,161 @@
+.navbar{
+    background-color: #212121;
+}
+
+.navbar-item .subtitle{
+    color: #FDFDFD;
+    margin: 0 0 0 12px;
+}
+
+.navbar-item .title{
+    margin: 0 0 0 12px !important;
+    color: #FDFDFD;
+}
+
+.page-info{
+    display: flex;
+    flex-direction: row;
+}
+
+.page-info .subtitle{
+    color: #FDFDFD;
+    margin: 0;
+}
+
+.page-info .title{
+    color: #FDFDFD;
+    margin: 1.2px 0 0 6px !important;
+}
+
+hr{
+    margin: 0;
+    background-color: #292929;
+}
+
+.search{
+    width: auto;
+    margin: 1em 0 1em 0;
+}
+
+.search .field .control:first-child{
+    width: 60%;
+    
+}
+
+.search .field{
+    justify-content: center !important;
+}
+
+.search .field .input{
+    background-color: #2d2d2d;
+    color: #FDFDFD;
+    border: none;
+}
+
+.search .field .input::placeholder{
+    background-color: #2d2d2d;
+    color: #aaa;
+    border: none;
+}
+
+.search .field p .button{
+    background-color: #2d2d2d;
+    color: #fdfdfd;
+    border: none;
+}
+
+.search .field p .button:hover{
+    background-color: #292929;
+}
+
+.revenues .container .columns{
+    flex-wrap: wrap;
+    margin: 0 0 5em 0;
+}
+
+.revenues .card{
+    background-color: #2D2D2D;
+}
+
+.revenues .card .card-content{
+    padding: 1rem 1rem 0.8rem 1rem ;
+}
+
+.revenues .card .card-content .media-content{
+    overflow-x: clip !important;
+}
+
+.revenues .card .media-content .Almoço{
+    background-color: #EE881B;
+    color: #fdfdfd;
+}
+
+.revenues .card .media-content .Café{
+    background-color: #5BCA2B;
+    color: #fdfdfd;
+}
+
+.revenues .card .media-content .Sobremesa{
+    background-color: #FF1F5A;
+    color: #fdfdfd;
+}
+
+.revenues .card .media-content .Festas{
+    background-color: #2B5F8C;
+    color: #fdfdfd;
+}
+
+.revenues .card .media-content span+p{
+    color: #FDFDFD;
+}
+
+.revenues .card .media-content span{
+    margin: 0 0 0.8em 0;
+}
+
+.revenues .card .content {
+    margin: 1em 0 0 0;
+}
+
+
+.revenues .card .content p{
+    color: #aaa;
+    margin: 0 0 0.5em 0 !important;
+}
+
+.revenues .card .content img{
+    width: 16px;
+    margin-right: 0.6em;
+}
+
+.footer{
+    background-color: #212121;
+    margin: auto;
+    padding: 0%;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+
+.navbar .navbar-menu{
+    background-color: #212121;
+    display: flex;
+}
+
+.is-active{
+    background-color: #292929 !important;
+ 
+}
+
+.navbar .navbar-menu .navbar-start{
+    width: auto;
+    margin: auto;
+    display: flex;
+}
+
+.navbar .navbar-menu .navbar-start .navbar-item .menu-item{
+    width: 3.5rem;
+    text-align: center;
+    font-size: 0.95em;
+    color: #FDFDFD;
+}
