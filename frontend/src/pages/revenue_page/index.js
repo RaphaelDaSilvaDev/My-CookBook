@@ -39,7 +39,7 @@ const Revenue = ({ match }) => {
             <section className="section-padding revenues">
                 <div className="container c-revenues">
                     <p className="title-food title is-3">{revenues.name}</p>
-                    <img className="food-image" src="https://i2.wp.com/mercadoeconsumo.com.br/wp-content/uploads/2019/04/Que-comida-saud%C3%A1vel-que-nada-brasileiro-gosta-de-fast-food-1024x683.jpg" alt={revenues.nome}></img>
+                    <img className="food-image" src={revenues.image} alt={revenues.nome}></img>
 
                     <div className="ingredient">
                         <p className="subtitle is-5">Ingredientes</p>

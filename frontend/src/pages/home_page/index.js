@@ -78,7 +78,7 @@ const Home = () => {
                                         </div>
                                         <div className="card-image">
                                             <figure className="image is-4by3">
-                                                <img src="https://i2.wp.com/mercadoeconsumo.com.br/wp-content/uploads/2019/04/Que-comida-saud%C3%A1vel-que-nada-brasileiro-gosta-de-fast-food-1024x683.jpg" alt={r.nome}></img>
+                                                <img src={r.image} alt={r.nome}></img>
                                             </figure>
                                         </div>
                                     </div>

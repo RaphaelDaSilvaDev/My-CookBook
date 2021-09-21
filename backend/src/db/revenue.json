@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Macarrão na chapa",
+        "tag": "Almoço",
+        "time": "30 Minutos",
+        "ingredientsAmount": "5 Total",
+        "preparation": [
+            {
+                "step": "Misture Tudo"
+            },
+            {
+                "step": "Bata bem até ficar homogenio"
+            },
+            {
+                "step": "Coloque em uma forma e leve ao forno"
+            },
+            {
+                "step": "Sirva quente."
+            }
+        ],
+        "ingredients": [
+            {
+                "i": "1 Lata de leite condensado"
+            },
+            {
+                "i": "1 Caixa de milho verde"
+            },
+            {
+                "i": "2 Ovos"
+            }
+        ],
+        "image": "http://localhost:5000/upload/macarrao.png"
+    },
+    {
+        "id": 2,
+        "name": "Bolo de Cenoura",
+        "tag": "Café da Manhã",
+        "time": "45 Minutos",
+        "ingredientsAmount": "6 Total",
+        "preparation": [
+            {
+                "step": "Misture Tudo"
+            },
+            {
+                "step": "Bata bem até ficar homogenio"
+            },
+            {
+                "step": "Coloque em uma forma e leve ao forno"
+            },
+            {
+                "step": "Sirva quente."
+            }
+        ],
+        "ingredients": [
+            {
+                "i": "1 Lata de leite condensado"
+            },
+            {
+                "i": "1 Caixa de milho verde"
+            },
+            {
+                "i": "2 Ovos"
+            }
+        ],
+        "image": "http://localhost:5000/upload/bolo.png"
+    },
+    {
+        "id": 3,
+        "name": "Pudim",
+        "tag": "Sobremesa",
+        "time": "1 hora e 30 Minutos",
+        "ingredientsAmount": "5 Total",
+        "preparation": [
+            {
+                "step": "Misture Tudo"
+            },
+            {
+                "step": "Bata bem até ficar homogenio"
+            },
+            {
+                "step": "Coloque em uma forma e leve ao forno"
+            },
+            {
+                "step": "Sirva quente."
+            }
+        ],
+        "ingredients": [
+            {
+                "i": "1 Lata de leite condensado"
+            },
+            {
+                "i": "1 Caixa de milho verde"
+            },
+            {
+                "i": "2 Ovos"
+            }
+        ],
+        "image": "http://localhost:5000/upload/pudim.png"
+    }
+]
